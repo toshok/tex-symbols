@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "TeX Symbols",
+          "submenu": [
+            {
+              "label": "Replace Symbol",
+              "command": "atom-tex-symbols:replaceSymbol"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

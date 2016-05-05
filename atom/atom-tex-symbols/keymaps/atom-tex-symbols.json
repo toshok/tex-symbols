@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-\\": "atom-tex-symbols:replaceSymbol"
+  }
+}

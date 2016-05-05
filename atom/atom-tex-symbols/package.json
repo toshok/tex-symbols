@@ -1,0 +1,18 @@
+{
+  "name": "atom-tex-symbols",
+  "main": "./lib/atom-tex-symbols",
+  "version": "0.0.0",
+  "description": "DrRacket-style TeX symbol replacement",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-tex-symbols:replaceSymbol"
+  },
+  "repository": "https://github.com/atom/atom-tex-symbols",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
